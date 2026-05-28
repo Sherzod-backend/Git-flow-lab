@@ -1,2 +1,3 @@
 Login module
 Register function
+Password reset
